@@ -1,0 +1,112 @@
+body {
+    background-color: grey;
+    font-family: 'Garamond', cursive;
+  }
+  #center {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 30px;
+    background-color: white;
+    border: black;
+    border-style: solid;
+  }
+  .header {
+    font-size: 40px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    color: black;
+  }
+  
+  #error {
+    color:red;
+  }
+  #register .text {
+    margin: 0 130px 10px 130px;
+    font-size: 24px;
+    margin-bottom: 80px;
+  }
+  #house{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 30px;
+  }
+  .nav ul {
+    display: flex;
+    list-style: none;
+  }
+  .nav li {
+    flex: auto;
+  }
+  .action {
+    padding: 5px 40px;
+    border: black;
+    border-style: solid;
+    margin: 0 40px 0 40px;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+  }
+  #form {
+    margin-top: 20px;
+    text-align: left;
+    display: flex;
+    align-content: center;
+    flex-direction: column;   
+    padding: 0 250px 0 250px;
+  }
+  .label {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .label-radio {
+    font-size: 20px;
+  }
+  .input-error {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: red 2px solid;
+  }
+  .profile-picture {
+    width: 400px;
+    border: black 3px solid;
+  }
+  #profile{
+    margin: auto;
+    width: 50%;
+  }
+  .profile-house-display {
+    font-size: 26px;
+    text-align: center;
+    margin: 5px 0 0 0;
+    width: 300px;
+    list-style: none;
+  }
+  #form-house .action-button {
+    text-align: center;
+    width: 75%;
+    margin-top: 2px;
+  }
+  #end .text {
+    font-size: 28px;
+  }
+  
+  #hidden-id {
+    display: none;
+  }
+  
+  .profile-house-display {
+    font-size: 26px;
+    text-align: left;
+    margin: 5px 0 0 0;
+    width: 300px;
+    list-style: none;
+  }
+  
+  
+  
